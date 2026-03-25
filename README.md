@@ -5,8 +5,8 @@
 
 ### 👩🏽‍💻 About Me
 
-- 🎓 M.S. Cybersecurity — University of Maryland, Baltimore County (2024)
-- 🎓 B.S. Computer Engineering — University of Mumbai (2022)
+- 🎓 M.S. Cybersecurity: University of Maryland, Baltimore County (2024)
+- 🎓 B.S. Computer Engineering: University of Mumbai (2022)
 - 🔐 Cybersecurity professional with 3+ years in SOC operations, incident response, and security project management across enterprise and consulting environments
 - 📊 Experienced in leading Tier 1 & Tier 2 analysis, coordinating cross-functional teams, and delivering security projects on time while consistently meeting KPIs and OKRs
 - 💞️ Open to collaborating on innovative and impactful projects in cybersecurity, cloud security, and GRC
@@ -30,7 +30,7 @@
 
 #### 💻 Scripting & Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,kql,spl" />
 </p>
 
 `Python` `KQL` `SPL`
